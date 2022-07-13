@@ -1,0 +1,21 @@
+.fondo{
+    background: darkorange;
+    background-color: darkorchid;
+    background-image: url('https://www.bing.com/images/blob?bcid=Tjx2S5F7MGYEyC5lrp7NxBz3KE5......8c');
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    background: url('https://www.bing.com/images/blob?bcid=Tjx2S5F7MGYEyC5lrp7NxBz3KE5......8c');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.titulo-principal{
+    color:blueviolet;
+    font-weight: lighter;
+    font-size: 80px;
+}
+
